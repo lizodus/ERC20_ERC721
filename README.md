@@ -14,7 +14,10 @@ Successful Transaction:
 https://rinkeby.etherscan.io/tx/0x53f172dda1dcf0c8e8cfe82c965a9cc826cebf97c612a869729b922d186a9acf
 
 
-Nature NFT was created for LizToken by the implementaiton of the ERC721 standard token. The contract was deployed on Rinkeby Ethereum test network at:
+Nature NFT was created at:
+https://ipfs.io/ipfs/QmYmLmx77PbPz2DSq3RkYJtVvCnriZaZE8Lq3BxaRGTusT?filename=20210507_172738.jpg 
+
+....for LizToken, by the implementaiton of the ERC721 standard token. The contract was deployed on Rinkeby Ethereum test network at:
 
 https://rinkeby.etherscan.io/address/0x294c3683729cb2fb6560768c6110f12ef52f0679
 
